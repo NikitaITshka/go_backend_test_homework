@@ -8,6 +8,6 @@ func Add(a, b int) int {
 	return a + b
 }
 
-func main() {
+func main() { //ss
 	fmt.Println("Я домашка")
 }
